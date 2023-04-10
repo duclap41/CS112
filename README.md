@@ -34,4 +34,3 @@
 ## CHỦ ĐỀ BÁO CÁO
 * **Số thứ tự chủ đề:** 06 
 * **Tên chủ đề:**  PHƯƠNG PHÁP THIẾT KẾ THUẬT TOÁN: COMPLETED SEARCH - BRANCH AND BOUND
-* **Nội dung chi tiết:** 
