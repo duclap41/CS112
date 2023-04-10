@@ -26,9 +26,9 @@
 
 | STT   | Họ tên                 | MSSV       | Vai trò     | Email                  | 
 | :---: | ---                    | ---        | ---         | ---                    | 
-| 1     | <strong> Nguyễn Đức Lập  </strong>  | 21522280  | Nhóm trưởng | 21522280@gm.uit.edu.vn |            
-| 2     |<strong>  Ngô Đăng Khoa  | 2152   | Thành viên  | 2152@gm.uit.edu.vn | 
-| 3     | <strong> Hồ Đăng Khoa  | 2152   | Thành viên  | 2152@gm.uit.edu.vn | 
+| 1     | <strong> Nguyễn Đức Lập </strong> | 21522280 | Nhóm trưởng | 21522280@gm.uit.edu.vn |            
+| 2     | <strong> Ngô Đăng Khoa | 21522821 | Thành viên | 21522821@gm.uit.edu.vn | 
+| 3     | <strong> Hồ Đăng Khoa | 21520992 | Thành viên | 21520992@gm.uit.edu.vn | 
  
 
 ## CHỦ ĐỀ BÁO CÁO
